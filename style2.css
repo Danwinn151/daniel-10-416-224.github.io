@@ -1,0 +1,31 @@
+body{
+    max-width: 150%;
+    height: 50%;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+h1{
+    margin-bottom:50%;
+    margin-top: 10%;
+    text-align: center;
+    color: rgb(131, 221, 221);
+}
+header{
+    background-image: url(img/peakpx.jpg);
+    background-size: cover;
+    background-position: center;
+}
+hr{
+    border: 1px solid red;
+    border-width: 1px;
+    max-width: 64px;
+}
+.btn{
+    background-color: rgb(195, 195, 242);
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: rgb(156, 245, 245);
+}
